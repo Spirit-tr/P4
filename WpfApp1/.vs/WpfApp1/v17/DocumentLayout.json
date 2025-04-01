@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\P4\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|d:\\p4\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|d:\\p4\\wpfapp1\\wpfapp1\\weather_analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\weather_analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|d:\\p4\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|d:\\p4\\wpfapp1\\wpfapp1\\weather_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\weather_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|d:\\p4\\wpfapp1\\wpfapp1\\weather_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6754FE-422C-407A-AE68-7E22A6C6E77F}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\weather_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather_Analyzer.cs",
+              "DocumentMoniker": "D:\\P4\\WpfApp1\\WpfApp1\\Weather_Analyzer.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Weather_Analyzer.cs",
+              "ToolTip": "D:\\P4\\WpfApp1\\WpfApp1\\Weather_Analyzer.cs",
+              "RelativeToolTip": "WpfApp1\\Weather_Analyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:08:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather_Service.cs",
+              "DocumentMoniker": "D:\\P4\\WpfApp1\\WpfApp1\\Weather_Service.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Weather_Service.cs",
+              "ToolTip": "D:\\P4\\WpfApp1\\WpfApp1\\Weather_Service.cs",
+              "RelativeToolTip": "WpfApp1\\Weather_Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:07:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather_Data.cs",
+              "DocumentMoniker": "D:\\P4\\WpfApp1\\WpfApp1\\Weather_Data.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Weather_Data.cs",
+              "ToolTip": "D:\\P4\\WpfApp1\\WpfApp1\\Weather_Data.cs",
+              "RelativeToolTip": "WpfApp1\\Weather_Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:06:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\P4\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\P4\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-01T15:04:02.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\P4\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\P4\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:03:58.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
