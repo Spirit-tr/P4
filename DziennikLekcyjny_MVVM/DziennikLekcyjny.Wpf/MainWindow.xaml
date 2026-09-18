@@ -5,31 +5,35 @@
         Title="Dziennik lekcyjny" Height="700" Width="1100"
         MinHeight="600" MinWidth="900"
         WindowStartupLocation="CenterScreen">
-    <Grid Margin="12">
+    <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Margin="0,0,0,10">
-            <TextBlock Text="Dziennik lekcyjny" FontSize="28" FontWeight="SemiBold"/>
-            <TextBlock Text="WPF + SQL Server + MVVM" Foreground="Gray"/>
-        </StackPanel>
+        <Border Grid.Row="0" Background="{StaticResource HeaderBrush}" Padding="22,18">
+            <TextBlock Text="Dziennik lekcyjny" FontSize="30" FontWeight="Bold" Foreground="White"/>
+        </Border>
 
-        <TabControl Grid.Row="1">
-            <TabItem Header="Uczniowie">
-                <views:StudentsView DataContext="{Binding Students}"/>
-            </TabItem>
-            <TabItem Header="Oceny">
-                <views:GradesView DataContext="{Binding Grades}"/>
-            </TabItem>
-            <TabItem Header="Plan lekcji">
-                <views:PlanView DataContext="{Binding Plan}"/>
-            </TabItem>
-        </TabControl>
+        <Border Grid.Row="1" Margin="18" Background="White" BorderBrush="{StaticResource BorderBrush}"
+                BorderThickness="1" CornerRadius="12" Padding="6">
+            <TabControl Background="White" BorderThickness="0">
+                <TabItem Header="Uczniowie">
+                    <views:StudentsView DataContext="{Binding Students}"/>
+                </TabItem>
+                <TabItem Header="Oceny">
+                    <views:GradesView DataContext="{Binding Grades}"/>
+                </TabItem>
+                <TabItem Header="Plan lekcji">
+                    <views:PlanView DataContext="{Binding Plan}"/>
+                </TabItem>
+            </TabControl>
+        </Border>
 
-        <TextBlock Grid.Row="2" Margin="4,8,4,0" Foreground="DimGray"
-                   Text="Baza: Projekt bazy danych dziennika lekcyjnego | Serwer: .\\SQLEXPRESS"/>
+        <Border Grid.Row="2" Background="#EAF2FB" Padding="18,9">
+            <TextBlock Foreground="{StaticResource MutedTextBrush}"
+                       Text="Baza: Projekt bazy danych dziennika lekcyjnego  •  Serwer: .\SQLEXPRESS"/>
+        </Border>
     </Grid>
 </Window>
